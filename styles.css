@@ -2,14 +2,14 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; /* Ensures padding and borders are included in element dimensions */
+    box-sizing: border-box; 
 }
 
 h1 {
     padding-top: .3em;
     padding-bottom: .3em;
-    border-top: 3px solid #931420; /* Adds a top border */
-    border-bottom: 3px solid #931420; /* Adds a bottom border */
+    border-top: 3px solid #931420; 
+    border-bottom: 3px solid #931420; 
 }
 
 h2 {
@@ -45,35 +45,35 @@ li {
 }
 
 footer {
-    background-color: #931420; /* Sets the background color */
-    color: white; /* Sets the font color to white */
-    text-align: center; /* Centers the text */
-    padding: 1em 0; /* Adds padding for better spacing */
+    background-color: #931420; 
+    color: white; 
+    text-align: center; 
+    padding: 1em 0; 
 }
 
 footer p {
-    margin: 0; /* Removes default margins */
+    margin: 0; 
 }
 
 header {
     background-image: linear-gradient(30deg, #f6bb73 0% 30%, white 50%, #f6bb73 80% 100%);
-    border-bottom: 3px solid #931420; /* Adds a bottom border */
-    padding-top: 1.5em; /* Adds 1.5ems of padding at the top */
-    padding-bottom: 2em; /* Adds 2ems of padding at the bottom */
+    border-bottom: 3px solid #931420; 
+    padding-top: 1.5em; 
+    padding-bottom: 2em; 
 }
 
 header img {
-    padding-right: 30px; /* Adds 30px of padding to the right */
-    padding-left: 30px; /* Adds 30px of padding to the left */
+    padding-right: 30px; 
+    padding-left: 30px; 
 }
 
 body {
     width: 600px;
-    margin: 0 auto; /* Centers the body horizontally */
-    border: 3px solid #931420; /* Adds a solid border with the specified color */
-    background-color: #fffde6; /* Sets the background color */
+    margin: 0 auto; 
+    border: 3px solid #931420; 
+    background-color: #fffde6; 
 }
 
 html {
-    background-color: white; /* Ensures the background outside the body is white */
+    background-color: white; 
 }
